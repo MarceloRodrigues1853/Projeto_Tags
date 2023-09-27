@@ -1,0 +1,54 @@
+ instruções do projeto
+
+Observe as três capturas de tela nas páginas seguintes. Cada uma delas tem áreas sinalizadas e numeradas, além de um grupo específico de tags HTML logo abaixo. Em um arquivo à parte, associe cada tag HTML com o respectivo número da área que o representa (Exemplo: 1. footer, 2. input, etc…)
+
+ 
+
+Trabalhe esse código em seu IDE, suba ele para sua conta no GitHub e compartilhe o link desse projeto no campo ao lado para que outros desenvolvedores possam analisá-lo.
+
+
+
+
+resposta:
+
+1. <header>
+- Essa tag é usada para definir um cabeçalho ou cabeçalho de página em uma página HTML. Geralmente, contém elementos como logotipos, títulos, barras de navegação e outros elementos de identificação e navegação na parte superior da página.
+
+<h1> - Assim como <h2>, essa tag é usada para criar cabeçalhos, mas é usada para o cabeçalho de primeiro nível, que é o mais importante em uma página HTML. Normalmente, é usado para o título principal da página.
+
+2. <main> 
+- Essa tag é usada para definir a seção principal do conteúdo em uma página HTML. Ela ajuda a estruturar o conteúdo da página, indicando onde o conteúdo principal da página está localizado.
+
+3. <nav>
+- Essa tag é usada para definir uma seção de navegação em uma página da web. Geralmente, ela envolve links ou elementos de menu que permitem aos usuários navegar pelas diferentes partes do site ou acessar páginas relacionadas.      
+
+4. <img> 
+- Essa tag é usada para inserir uma imagem em uma página da web. Ela requer um atributo src que especifica o caminho para a imagem que deve ser exibida. A tag <img> também pode ter atributos opcionais, como alt (texto alternativo) para fornecer uma descrição da imagem e width e height para controlar as dimensões da imagem.       
+        
+5. <h1> 
+- Assim como <h2>, essa tag é usada para criar cabeçalhos, mas é usada para o cabeçalho de primeiro nível, que é o mais importante em uma página HTML. Normalmente, é usado para o título principal da página.
+
+6. <h2> - Essa tag é usada para criar um cabeçalho de segundo nível em uma página HTML. Normalmente, os cabeçalhos são usados para estruturar o conteúdo e indicar a hierarquia de informações. O <h2> representa um nível inferior de importância em relação ao <h1>, que é o cabeçalho principal.         
+
+7. <p>    
+- Essa tag é usada para criar parágrafos de texto em uma página HTML. Ela envolve o texto e é usada para separar blocos de texto em parágrafos distintos.
+
+8. <a>
+- Essa tag é usada para criar links. No projeto, ela não está presente no código fornecido, mas pode ser usada para criar links para outras páginas ou recursos externos.
+
+9. <footer>
+- Essa tag é usada para definir o rodapé da página. No projeto, é usada para criar a área de rodapé que pode conter informações adicionais ou links.
+
+10. <ul> - Essa tag cria uma lista não ordenada. No projeto, é usada dentro da barra de navegação para criar uma lista de itens de navegação.
+
+11. <li> - Essa tag é usada para criar itens de lista. No projeto, é usada dentro da lista não ordenada (<ul>) para representar cada item de navegação.
+
+12. <form> - Esta tag é usada para criar formulários interativos que permitem aos usuários inserir dados. No projeto, é usada para criar um formulário que pode ser preenchido pelos visitantes do site.
+
+13. <label> - Essa tag é usada para criar rótulos para campos de entrada em um formulário. No projeto, é usada para rotular os campos de texto e seleção no formulário.
+
+14. <input> - Essa tag é usada para criar campos de entrada em um formulário, como campos de texto ou caixas de seleção. No projeto, é usada para criar campos de entrada no formulário.
+
+15. <select> - Essa tag é usada para criar uma lista suspensa (dropdown) em um formulário. No projeto, é usada para criar uma lista de seleção dentro do formulário.
+
+16. <button> - Essa tag é usada para criar botões interativos em um formulário que os usuários podem clicar para enviar o formulário ou executar ações específicas. No projeto, é usada para criar um botão de envio dentro do formulário.
